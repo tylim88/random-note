@@ -11,4 +11,4 @@ For example css terminology:https://www.impressivewebs.com/css-terms-definitions
   
 When i go through these terminology, I feel like I gain extra understanding on CSS even though there is nothing new in it.
   
-I starting to think recognizing terminology is an important part of learning.
+I starting to think recognizing terminology is an important part of learning plus it allows you to search better on Google.
